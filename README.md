@@ -1,4 +1,4 @@
-
+[![MasterHead](https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4743gsnw76iccbszchq2uvw9sggovf7aipn5s8i0b6&rid=giphy.gif&ct=g)](https://gayathrip2000.io)
 <h1 align="center">Hi 👋, I'm Gayathri Gamage</h1>
 <h3 align="center">From Beginner to Pro</h3>
 <img  align = "right" alt="Coding" width="400" src ="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="Coding" width="400"/>
