@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/121/12113.gif)](https://gayathrip2000.io)
+[![MasterHead](https://wallpaperaccess.com/full/8351153.gif)](https://gayathrip2000.io)
 <h1 align="center">Hi 👋, I'm Gayathri Gamage</h1>
 <h3 align="center">From Beginner to Pro</h3>
 <img  align = "right" alt="Coding" width="400" src ="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="Coding" width="400"/>
