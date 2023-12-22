@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/8351153.gif)](https://gayathrip2000.io)
+
 <h1 align="center">Hi 👋, I'm Gayathri Gamage</h1>
 <h3 align="center">From Beginner to Pro</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
