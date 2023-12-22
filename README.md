@@ -5,24 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathrip-2000&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrip-2000" /> </p>
 
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
-	
-</p>
-   <a href="mailto:gayathrigamage222@gmail.com*" target="_blank">
-    <img alt="Gamil" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-	
-   <a href="https://www.linkedin.com/in/gayathri--gamage/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-  
- <a href="https://medium.com/@pggayathri2000" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>   
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
+- 🔭 I’m currently working on **MERN Stack**
 
-  <a href="https://www.hackerrank.com/gayathrigamage21" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>   
+- 👩🏼‍🎓I’m Undergraduate at **SLIIT**
+
+<br/><br/><br/>
+
+## 💬  Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathrigamage222@gmail.com)
+
+
 
 
 ## 📋  Languages:
