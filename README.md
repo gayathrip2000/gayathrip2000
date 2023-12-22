@@ -71,6 +71,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+</br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrip2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="gayathrip-2000" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathrip2000&show_icons=true&locale=en&theme=dark" alt="gayathrip-2000" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrip2000&theme=dark" alt="gayathrip-2000" /></p>
