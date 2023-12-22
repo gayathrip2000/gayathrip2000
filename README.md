@@ -1,22 +1,23 @@
 [![MasterHead](https://wallpaperaccess.com/full/8351153.gif)](https://gayathrip2000.io)
 <h1 align="center">Hi 👋, I'm Gayathri Gamage</h1>
-<h3 align="center">From Beginner to Pro</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathrip-2000&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrip-2000" /> </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=From+Beginner+to+Pro" alt="Typing SVG" /></a>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
 - 🔭 I’m currently working on **MERN Stack**
-
 - 👩🏼‍🎓I’m Undergraduate at **SLIIT**
+- 💬 Talk me about Software Engineering opportunities 
+- 💼 Collaborate for innovative web solutions together.
 
-<br/><br/><br/>
+
+<br/>
 
 ## 💬  Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathrigamage222@gmail.com)
-
-
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pggayathri2000)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gayathrigamage21)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayathri-gamage-006667215)
 
 ## 📋  Languages:
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -67,10 +68,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrip2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="gayathrip-2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathrip2000&show_icons=true&locale=en&theme=dark" alt="gayathrip-2000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrip2000&theme=dark" alt="gayathrip-2000" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrip2000&show_icons=true&locale=en&layout=compact" alt="gayathrip-2000" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathrip2000&show_icons=true&locale=en" alt="gayathrip-2000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrip2000&" alt="gayathrip-2000" /></p>
