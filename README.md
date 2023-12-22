@@ -1,21 +1,29 @@
-
+[![MasterHead](https://wallpaperaccess.com/full/8351153.gif)](https://gayathrip2000.io)
 <h1 align="center">Hi 👋, I'm Gayathri Gamage</h1>
 <h3 align="center">From Beginner to Pro</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathrip-2000&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrip-2000" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
 
-- 👩🏼‍🎓I’m Undergraduate at **SLIIT**
-
-- 📫 How to reach me **gayathrigamage222@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gayathri-gamage-006667215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayathri-gamage-006667215" height="30" width="40" /></a>
-<a href="https://medium.com/@pggayathri2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pggayathri2000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gayathrigamage21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gayathrigamage21" height="30" width="40" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
+	
 </p>
+   <a href="mailto:gayathrigamage222@gmail.com*" target="_blank">
+    <img alt="Gamil" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+	
+   <a href="https://www.linkedin.com/in/gayathri--gamage/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+  
+ <a href="https://medium.com/@pggayathri2000" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>   
+
+  <a href="https://www.hackerrank.com/gayathrigamage21" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>   
+
 
 ## 📋  Languages:
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
