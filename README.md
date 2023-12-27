@@ -4,7 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Gayathri Gamage</h1>
-<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyNDU1MjMsIm5iZiI6MTcwMzI0NTIyMywicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIyVDExNDAyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5ZmUyMTZlMDM5ZDMyY2NlM2ViZWUyOGNiN2EyMzk5YWNjMjUzYjk0ZjhhMTA2YzZjYTMxZTQxMWYwN2JjZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.j8zPBed1zkArknqPe_ih2LikJJn0j_8UOcozyXjU6Wg">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathrip-2000&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrip-2000" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=From+Beginner+to+Pro" alt="Typing SVG" /></a>
